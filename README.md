@@ -42,3 +42,4 @@ for _ in range(iterations):
 
 print("Final Weights:", theta)
 print("HEllo World")
+print("Second Hello")
