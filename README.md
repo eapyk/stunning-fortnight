@@ -41,3 +41,4 @@ for _ in range(iterations):
     theta -= learning_rate * gradients
 
 print("Final Weights:", theta)
+print("HEllo World")
